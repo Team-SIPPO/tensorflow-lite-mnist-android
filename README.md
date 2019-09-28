@@ -1,6 +1,7 @@
 # This is minmum sample of tensorflow lite
 
 
+
 ## how to make this app?
 ### 0. copy .tflite from your python code to assets folder 
 ### 1. write following setting into build.gradle
