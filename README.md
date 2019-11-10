@@ -36,4 +36,5 @@ process flow is following below.
     + instead of ByteBuffer, it may be possible using float array.
 5. run inflate with 2d float array output container.
     + first dim is batch size and second dim is result size.
- 
+
+
